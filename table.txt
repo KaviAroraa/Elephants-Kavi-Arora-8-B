@@ -1,0 +1,28 @@
+
+<body>
+<table border=1 height=100, width=70 bgcolor="olive">
+<tr>
+<th rowspan=3> Name </th>
+<th> Roll No </th>
+<th> Class </th>
+</tr>
+<tr> 
+<td> 2
+<td> X
+</tr>
+<tr> 
+<td> 3
+<td> xi
+<tr>
+<td> aarti
+<td> 4
+<td> XII
+</tr>
+<tr>
+<td colspan=2>kavi</td>
+<td> aaa </td>
+</table>
+
+<ol>
+<li> <a href="8BTABLE.HTML"> Aarav
+<ol> <a href="table.html">Bidichandani    
